@@ -1,5 +1,5 @@
 
-# Tic Tac Toe Game in C++
+# Tic Tac Toe Game
 
 This project is a simple command-line Tic Tac Toe game developed in C++ for two players. The game board is a 3x3 grid, and players take turns placing their markers (X or O) until one of the players wins by aligning three markers in a row, column, or diagonal, or until all slots are filled, resulting in a tie.
 
